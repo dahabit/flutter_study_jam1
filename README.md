@@ -1,10 +1,10 @@
 # testapp
 
-A new Flutter project.
+This is the example I eplained at https://www.youtube.com/watch?v=gvAvYwMM5MA Arabic Flutter Study jam
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+please run flutter packages get command before runing the project
 
 A few resources to get you started if this is your first Flutter project:
 
